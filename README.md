@@ -7,8 +7,9 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+
 - (283) ML은 list로 못하는 이유는 병렬처리가 안되기 때문이다. 그래서 matrix를 쓴다.
-  - 
+  - ...
 - (283) How to do arrows in .md: Up arrow (↑): `&uarr`; Down arrow (↓): `&darr`; Left arrow (←): `&larr`; Right arrow (→): `&rarr`;
 Double headed arrow (↔): `&harr`;
   - https://reimbar.org/dev/arrows/
