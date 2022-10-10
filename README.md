@@ -7,7 +7,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
-
+- (283) There shows a 80-character line when your code gets too long on Colab (there's also a way to disable it in Preferences).
+  - https://stackoverflow.com/questions/56122183/remove-line-at-80-characters-in-google-colab
 - (283) ML은 list로 못하는 이유는 병렬처리가 안되기 때문이다. 그래서 matrix를 쓴다.
   - ...
 - (283) How to do arrows in .md: Up arrow (↑): `&uarr`; Down arrow (↓): `&darr`; Left arrow (←): `&larr`; Right arrow (→): `&rarr`;
