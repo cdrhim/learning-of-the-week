@@ -7,6 +7,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+- (283) Matplotlib: Why is it 'suptitle' not 'subtitle'? -> Because it is 'super-title.'
+  - https://stackoverflow.com/questions/59387535/matplotlib-why-is-it-suptitle-not-subtitle
 - (283) The distinction between a variable (which denotes a value) and a pointer (which references a value) is subtle and the realm of such advanced topics as programming language semantics, domain theory, and static single assignment; there be dragons.
   - https://www.quora.com/Are-all-variables-pointers
 - (282) Python으로 BFS할 때는 시간단순하게 queue.popleft(), DFS는 stack.pop()
