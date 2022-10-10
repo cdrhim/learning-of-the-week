@@ -1,4 +1,4 @@
-# Learning of the Week <sup>(LOTW)<!sup>
+# Learning of the Week <sup>(LOTW)</sup>
 Inspirational learning sources from the week.\
 The units are in the number of the week, and the number of day (in parentheses) in the year.
 
