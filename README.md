@@ -8,6 +8,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+- (284) ANSI SQL is the abbreviation of American National Standards Institute SQL, which is the standard SQL.
+  - https://www.quora.com/What-is-ANSI-SQL-Oracle-SQL-and-MySQL
 - (284) 비즈니스 문제가 무엇인지 먼저 잘 판단이 되는 기업이 머신 러닝 솔루션을 배포까지 가장 빠르게 개발한다. 
   - AWS Korea AI/ML workshop 이유동 SA
 - (284) JupyterLab will eventually replace the classic Jupyter Notebook. Throughout this transition, the same notebook document format will be supported by both the classic Notebook and JupyterLab.
