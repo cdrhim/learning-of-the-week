@@ -8,6 +8,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+- (283) % is line magic, whereas %% is cell magic.
+  - https://stackoverflow.com/questions/58607854/difference-between-and-in-ipython-magic-commands
 - (284) ANSI SQL is the abbreviation of American National Standards Institute SQL, which is the standard SQL.
   - https://www.quora.com/What-is-ANSI-SQL-Oracle-SQL-and-MySQL
 - (284) 비즈니스 문제가 무엇인지 먼저 잘 판단이 되는 기업이 머신 러닝 솔루션을 배포까지 가장 빠르게 개발한다. 
