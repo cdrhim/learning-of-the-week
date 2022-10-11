@@ -8,7 +8,9 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
-- (283) % is line magic, whereas %% is cell magic in Jupyter.
+- (284) `==` is for value equality, whereas `is` is for reference equality.
+  - https://towardsdatascience.com/whats-the-difference-between-is-and-in-python-dc26406c85ad
+- (284) % is line magic, whereas %% is cell magic in Jupyter.
   - https://stackoverflow.com/questions/58607854/difference-between-and-in-ipython-magic-commands
 - (284) ANSI SQL is the abbreviation of American National Standards Institute SQL, which is the standard SQL.
   - https://www.quora.com/What-is-ANSI-SQL-Oracle-SQL-and-MySQL
