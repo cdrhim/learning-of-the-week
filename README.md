@@ -14,7 +14,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
   - https://stackoverflow.com/questions/58607854/difference-between-and-in-ipython-magic-commands
 - (284) ANSI SQL is the abbreviation of American National Standards Institute SQL, which is the standard SQL.
   - https://www.quora.com/What-is-ANSI-SQL-Oracle-SQL-and-MySQL
-- (284) 비즈니스 문제가 무엇인지 먼저 잘 판단이 되는 기업이 머신 러닝 솔루션을 배포까지 가장 빠르게 개발한다. 
+- (284) 비즈니스 문제가 무엇인지 먼저 잘 판단이 되는 기업이 머신 러닝 솔루션을 배포까지 가장 빠르게 개발한다. `wait=False`란 파라미터로 Jupyter에서 SageMaker에서 compute하는 것을 기다릴 필요 없이 바로 다음 블록을 진행할 수 있다.
   - AWS Korea AI/ML workshop 이유동 SA
 - (284) JupyterLab will eventually replace the classic Jupyter Notebook. Throughout this transition, the same notebook document format will be supported by both the classic Notebook and JupyterLab.
   - https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab
