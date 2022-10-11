@@ -7,6 +7,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+- (284) 비즈니스 문제가 무엇인지 먼저 잘 판단이 되는 기업이 머신 러닝 솔루션을 배포까지 가장 빠르게 개발한다. 
+  - AWS Korea AI/ML workshop
 - (284) JupyterLab will eventually replace the classic Jupyter Notebook. Throughout this transition, the same notebook document format will be supported by both the classic Notebook and JupyterLab.
   - https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab
 - (283) There shows a 80-character line when your code gets too long on Colab (there's also a way to disable it in Preferences).
