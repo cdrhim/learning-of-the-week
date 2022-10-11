@@ -8,6 +8,9 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+
+- (284) If your app is distributed or stateless, and can survive the loss of an instance at any time it's a great candidate for spot instances.
+  - https://www.reddit.com/r/aws/comments/n0mlmb/does_aws_ec2_spot_instance_make_sense_in_a/
 - (284) `==` is for value equality, whereas `is` is for reference equality.
   - https://towardsdatascience.com/whats-the-difference-between-is-and-in-python-dc26406c85ad
 - (284) % is line magic, whereas %% is cell magic in Jupyter.
