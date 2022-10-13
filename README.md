@@ -11,6 +11,10 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+- (286) CPU's ALU -> GPU's rendering -> NPU
+  - KOREA AI DEVCON 2022 (rebellions_ 박성현 대표)
+- (286) ALU (from CPUs) is part of a central processing unit that carries out arithmetic and logic operations on the operands
+  - https://www.techtarget.com/whatis/definition/arithmetic-logic-unit-ALU
 - (286) IPS,IDS,EDR,NAC - for cloud security.
 - (286) 'MI:DEUM'이란 서비스가 있고, 'MI:DEUM LETS'이란 플랫폼이 있다.
   - KOREA AI DEVCON 2022 (KT 장두성 상무)
