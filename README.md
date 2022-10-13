@@ -11,6 +11,11 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+
+- (286) 
+  - KOREA AI DEVCON 2022
+- (286) ASIC: An application-specific integrated circuit is an integrated circuit (IC) that’s custom-designed for a particular task or application. 
+  - https://www.arm.com/glossary/asic
 - (284) So... k8s is going to cost more, but having a k8s cluster and all of it's yaml files is going to reduce your vendor lock in. Also, once the cluster is up, managing installs/your apps is going to be easier than managing them in ECS.
   - https://www.reddit.com/r/kubernetes/comments/xlfcs2/what_should_make_me_consider_moving_from_ecs_to/
 - (284) If your app is distributed or stateless, and can survive the loss of an instance at any time it's a great candidate for spot instances.
