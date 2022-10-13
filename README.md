@@ -11,7 +11,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
-
+- (286) IPS,IDS,EDR,NAC - for cloud security.
+  - 
 - (286) Writing software through software (Jenson Huang, NVIDIA CEO). vGPU: virtual GPU. 
   - KOREA AI DEVCON 2022
 - (286) ASIC: An application-specific integrated circuit is an integrated circuit (IC) that’s custom-designed for a particular task or application. 
