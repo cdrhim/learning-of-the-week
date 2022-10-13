@@ -11,8 +11,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
-- (286) 
 - (286) IPS,IDS,EDR,NAC - for cloud security.
+- (286) 'MI:DEUM'이란 서비스가 있고, 'MI:DEUM LETS'이란 플랫폼이 있다.
   - KOREA AI DEVCON 2022 (KT 장두성 상무)
 - (286) AI software that writes software software (Jenson Huang, NVIDIA CEO). vGPU: virtual GPU. NVIDIA Omniverse is for developing metaverse.
   - KOREA AI DEVCON 2022 (NVIDIA 정구형 이사)
