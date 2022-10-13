@@ -11,10 +11,11 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+- (286) 
 - (286) IPS,IDS,EDR,NAC - for cloud security.
-  - 
+  - KOREA AI DEVCON 2022 (KT 장두성 상무)
 - (286) AI software that writes software software (Jenson Huang, NVIDIA CEO). vGPU: virtual GPU. NVIDIA Omniverse is for developing metaverse.
-  - KOREA AI DEVCON 2022
+  - KOREA AI DEVCON 2022 (NVIDIA 정구형 이사)
 - (286) ASIC: An application-specific integrated circuit is an integrated circuit (IC) that’s custom-designed for a particular task or application. 
   - https://www.arm.com/glossary/asic
 - (284) So... k8s is going to cost more, but having a k8s cluster and all of it's yaml files is going to reduce your vendor lock in. Also, once the cluster is up, managing installs/your apps is going to be easier than managing them in ECS.
