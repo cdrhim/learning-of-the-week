@@ -13,7 +13,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 
 - (287)
 - (287)
-- (287)
+- (287) SQL
 - (287) SQL
 - (286) CPU's ALU -> GPU's rendering -> NPU
   - KOREA AI DEVCON 2022 (rebellions_ 박성현 대표)
