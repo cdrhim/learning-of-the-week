@@ -11,7 +11,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
-- (287)
+- (287) SQL
 - (287)
 - (287) SQL
 - (287) SQL
