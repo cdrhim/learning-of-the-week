@@ -15,7 +15,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 - (287) Why is there a ' ' (space) and AS at the same time in a query? Spaces within [] or "" count as a space-recognizable column name.
   - https://stackoverflow.com/questions/49212368/what-is-difference-in-sql-server-between-and
 - (287) Does SQL join always need to have anchors?
-  - 
+  - ...
 - (287) SQL - Difference between UNION, UNION ALL, and JOIN. 
   - https://stackoverflow.com/questions/10538539/join-two-select-statement-results
 - (286) CPU's ALU -> GPU's rendering -> NPU
