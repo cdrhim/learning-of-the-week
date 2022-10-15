@@ -11,7 +11,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
-- (288) Why why why
+- (288) Using
+  -
 - (287) Why is there a ' ' (space) and AS at the same time in a query? Spaces within [ ] or "" count as a space-recognizable column name.
   - https://stackoverflow.com/questions/49212368/what-is-difference-in-sql-server-between-and
 - (287) Does SQL join always need to have anchors?
