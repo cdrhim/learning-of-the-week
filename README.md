@@ -11,7 +11,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
-- (288) Using MAX() would solve the problem of COUNT(sth) * sth, or you could either use SUM(). -
+- (288) Using MAX() would solve the problem of COUNT(sth) * sth, or you could either use SUM().
   - https://stackoverflow.com/questions/29594282/in-sql-how-do-you-multiply-count
 - (287) Why is there a ' ' (space) and AS at the same time in a query? Spaces within [ ] or "" count as a space-recognizable column name.
   - https://stackoverflow.com/questions/49212368/what-is-difference-in-sql-server-between-and
