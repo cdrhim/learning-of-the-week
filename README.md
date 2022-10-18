@@ -11,6 +11,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 40 
 ##### (Oct. week 2) of 2022 
 
+- (291)
 - (290)
 - (288) Using MAX() would solve the problem of COUNT(sth) * sth, or you could either use SUM().
   - https://stackoverflow.com/questions/29594282/in-sql-how-do-you-multiply-count
