@@ -12,6 +12,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ##### (Oct. week 2) of 2022 
 
 - (296) Great (Korean) website for recommender systems: https://root-decimal-c5d.notion.site/Recommender-System-KR-5b773a06e99145e6855bae391c94dc44.
+  - Python Data Science Kakaotalk Group
 - (291) 리테일과 통신사에서 MSA 전환을 시도하고 있는데, 리테일은 프론트엔드, 통신사는 BSS (Back Server Support)에서 시도한다.
   - MongoDB Day Seoul AWS SA 윤기원
 - (291)
