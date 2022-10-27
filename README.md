@@ -3,8 +3,8 @@
 Inspirational learning sources from the week.\
 The units are in the number of the week, and the number of day (in parentheses) in the year.
 
-[Week 43](#week-43)
-[Week 40](#week-40)
+- [Week 43](#week-43)
+- [Week 40](#week-40)
 
 ---
 ---
