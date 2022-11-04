@@ -13,7 +13,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 44
 ##### (Nov. week 1) of 2022
 
-
+- https://jehyunlee.github.io/2022/11/04/Python-DS-119-kierlecture7/
+  - TensorFlow KR
 
 ### Week 43
 ##### (Oct. week 5) of 2022
