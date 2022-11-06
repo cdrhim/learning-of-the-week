@@ -13,7 +13,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 44
 ##### (Nov. week 1) of 2022
 
-- (310)
+- (310) 13 portfolios to consider. https://bpowell.co, https://cherupil.com, https://robonilla.com, https://lynnsohn.com, https://chirswelch.co, https://alexlakas.com, https://stijnthijssen.nl, https://yuyangluo.com, https://taamannae.dev, https://yinghsuanho.com, https://karoliskosas.com, https://jaeyouchung.com, https://camillemormal.com
+  - https://www.linkedin.com/posts/thijskraan_ux-portfolio-design-activity-6993934856460066816-Ebj2?utm_source=share&utm_medium=member_android
 - (309) https://jehyunlee.github.io/2022/11/04/Python-DS-119-kierlecture7/
   - TensorFlow KR
 
