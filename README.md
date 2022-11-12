@@ -3,6 +3,9 @@
 Inspirational learning sources from the week.\
 The units are in the number of the week, and the number of day (in parentheses) in the year.
 
+Website: [link](https://cdrhim.github.io/learning-of-the-week/)
+Github: [link](https://https://www.github.com/cdrhim/learning-of-the-week/)
+
 - [Week 45](#week-45)
 - [Week 44](#week-44)
 - [Week 43](#week-43)
