@@ -14,7 +14,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 45
 ##### (Nov. week 2) of 2022
 
-- 
+- (316) EfficientNet is a convolutional neural network architecture and scaling method that uniformly scales all dimensions of depth/width/resolution using a compound coefficient.
+  - https://paperswithcode.com/method/efficientnet
 
 ### Week 44
 ##### (Nov. week 1) of 2022
