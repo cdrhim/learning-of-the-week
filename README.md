@@ -10,6 +10,12 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 ---
 
+
+### Week 45
+##### (Nov. week 2) of 2022
+
+- 
+
 ### Week 44
 ##### (Nov. week 1) of 2022
 
