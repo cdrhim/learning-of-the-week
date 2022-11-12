@@ -17,6 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 
 - (316) EfficientNet is a convolutional neural network architecture and scaling method that uniformly scales all dimensions of depth/width/resolution using a compound coefficient.
   - https://paperswithcode.com/method/efficientnet
+- (316) In order to decipher edf files (medical data on deep sleep), we can convert them to jpg files and proceed with EfficientNet.
+  - https://www.dropbox.com/scl/fi/mgf7tb2e30xlv0dk9qh4i/2.paper?dl=0&rlkey=w7zs340gqvujyswbmo2afie1q 
 
 ### Week 44
 ##### (Nov. week 1) of 2022
