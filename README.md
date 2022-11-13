@@ -18,6 +18,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 45
 ##### (Nov. week 2) of 2022
 
+- (317) Monarcy method curriculum.
+  - https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit
 - (316) EfficientNet is a convolutional neural network architecture and scaling method that uniformly scales all dimensions of depth/width/resolution using a compound coefficient.
   - https://paperswithcode.com/method/efficientnet
 - (316) In order to decipher edf files (medical data on deep sleep), we can convert them to jpg files and proceed with EfficientNet.
