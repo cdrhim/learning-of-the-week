@@ -6,6 +6,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 🌍 Website: [link](https://cdrhim.github.io/learning-of-the-week/)<br>
 🛠️ Github: [link](https://https://www.github.com/cdrhim/learning-of-the-week/)
 
+- [Week 47](#week-47)
+- [Week 46](#week-46)
 - [Week 45](#week-45)
 - [Week 44](#week-44)
 - [Week 43](#week-43)
@@ -14,6 +16,12 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 ---
 
+### Week 47
+
+- (323) RUP (Rational Unified Project) came before UML.
+  - NIPS
+
+### Week 46
 
 ### Week 45
 ##### (Nov. week 2) of 2022
