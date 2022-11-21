@@ -17,7 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
-
+- (323) Reference model (TOGAF, etc.) + architecture pattern (Call-Return, etc.) = reference architecture (J2EE, SOE, etc.)
+  - NIPA SW Architecture Seminar
 - (323) RUP (Rational Unified Project) came before UML. One boundary class per actor/use case pair.
   - NIPA SW Architecture Seminar
 
