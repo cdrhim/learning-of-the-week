@@ -19,7 +19,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ### Week 47
 
 - (323) RUP (Rational Unified Project) came before UML. One boundary class per actor/use case pair.
-  - NIPS
+  - NIPA SW Architecture Seminar
 
 ### Week 46
 
