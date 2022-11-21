@@ -17,6 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
+- (323) Test를 잘 쓰려면 적은 test로 최대한 많은 오류를 알아내는 것. 단위 테스트는 statement coverage와 branch coverage로 함.
+  - SPSS-NIPA SW Architecture Seminar
 - (323) Low code, no code를 잘 하려면 명세서를 잘 써야한다.
   - SPSS-NIPA SW Architecture Seminar
 - (323) Reference model (TOGAF, etc.) + architecture pattern (Call-Return, etc.) = reference architecture (J2EE, SOE, etc.)
