@@ -17,6 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
+- (324) 앞으로 distributed GPU에 집중할 것이다.
+  - Google Next, 박
 - (323) 앞으로 마지막으로 명심하면 좋을 것은, 삼성에서도 high level에서 아키텍처를 잘 못해서 후회하고 있다고 한다. Entity별 클래스 등등 잘 분류해서 꼭 칠판에 적어서 설계를 하는 것으로 한다.
   - SPSS-NIPA SW Architecture Seminar
 - (323) Test를 잘 쓰려면 적은 test로 최대한 많은 오류를 알아내는 것. 단위 테스트는 statement coverage와 branch coverage로 함.
