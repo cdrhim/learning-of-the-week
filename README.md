@@ -18,7 +18,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 
 ### Week 47
 - (325) 
-- (324) The better way to 
+- (324) The better way to achieve high scores on Quiklab leaderboards is to know how to flexibly use Linux shell commands.
   - Myself
 - (324) 앞으로 distributed GPU에 집중할 것이다.
   - Google Next, 박
