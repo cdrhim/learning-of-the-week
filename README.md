@@ -17,6 +17,9 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
+- (325) 
+- (324) The better way to 
+  - Myself
 - (324) 앞으로 distributed GPU에 집중할 것이다.
   - Google Next, 박
 - (323) 앞으로 마지막으로 명심하면 좋을 것은, 삼성에서도 high level에서 아키텍처를 잘 못해서 후회하고 있다고 한다. Entity별 클래스 등등 잘 분류해서 꼭 칠판에 적어서 설계를 하는 것으로 한다.
