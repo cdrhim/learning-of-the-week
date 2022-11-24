@@ -17,10 +17,10 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
-- (326) [Network] 
-- (326) [Linux] namespace isolate include UID, PID, not
-- (326) [Container]
-- (326) [Cloud]  
+- (326) [Network] TCP 3-way 3rd level handshake. 
+- (326) [Linux] Creating user command line. 
+- (326) [Container] Namespace isolate include UID, PID, not. User admin access command line.
+- (326) [Cloud] S3 names cannot be modified and cannot use underbars and capital letters. Its region cannot be modified as well. Kubernetes services include AKS, EKS, .
 - (325) 
 - (324) The better way to achieve high scores on Quiklab leaderboards is to know how to flexibly use Linux shell commands.
   - Myself
