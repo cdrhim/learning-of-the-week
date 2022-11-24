@@ -17,6 +17,10 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
+- (326) [Network] 
+- (326) [Linux] namespace isolate include UID, PID, not
+- (326) [Container]
+- (326) [Cloud]  
 - (325) 
 - (324) The better way to achieve high scores on Quiklab leaderboards is to know how to flexibly use Linux shell commands.
   - Myself
