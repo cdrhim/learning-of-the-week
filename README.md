@@ -17,6 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
+- (327) During code reviews (in Korea), the roles should be divided as the recorder, the reviewer, the moderator, the reader, and the author. The moderator should lead (or moderate) the meetings for 계획, 킥오프, 수행 및 재작업 단계. The team leader should rather view the process aside.
+  - NIPA
 - (327) Code review done by certain language-using developers would have difficulty teaching another language-using developer.
   - NIPA
 - (326) [Network] TCP 3-way 3rd level handshake. 127.0.0.1 meaning. Port 3306 is MySQL, 23 Telnet. Can you create network system within network layer?
