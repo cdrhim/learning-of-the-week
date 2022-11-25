@@ -17,6 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 
 ### Week 47
+- (327) Code review done by certain language-using developers would have difficulty teaching another language-using developer.
+  - NIPA
 - (326) [Network] TCP 3-way 3rd level handshake. 127.0.0.1 meaning. Port 3306 is MySQL, 23 Telnet. Can you create network system within network layer?
 - (326) [Linux] Creating user command line. Simply typing 'echo' only displays to terminal, but using '>>' with it will not. -f when closing a running application.
 - (326) [Container] Namespace isolate include UID, PID, not. User admin access command line.
