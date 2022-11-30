@@ -16,6 +16,9 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 ---
 
+- (334) There are three kinds of uncertainties. Data (aleatoric uncertainty), model (epistemic uncertainty), and out-of-distribution (novelty detectionn) uncertainty.
+  - MODULABS
+
 ### Week 47
 - (327) During code reviews (in Korea), the roles should be divided as the recorder, the reviewer, the moderator, the reader, and the author. The moderator should lead (or moderate) the meetings for 계획, 킥오프, 수행 및 재작업 단계. The team leader should rather view the process aside.
   - NIPA
