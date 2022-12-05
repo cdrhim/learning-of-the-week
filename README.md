@@ -15,6 +15,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 
 ---
 ---
+- ()
 
 - (334) There are three kinds of uncertainties. Data (aleatoric uncertainty), model (epistemic uncertainty), and out-of-distribution (novelty detectionn) uncertainty.
   - MODULABS Choi, Sungjoon.
