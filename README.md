@@ -16,7 +16,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 ---
 
-- () first paint -> first contentful paint -> largest contentful paint
+- () first paint -> first contentful paint -> largest contentful paint. Gzip보다 Brotli로 압축하기. AVIF로 압축하기. 이미지의 불필요한 메타데이터 제거하기(절반까지 용량 절감 가능).
   - 
 - ()
 
