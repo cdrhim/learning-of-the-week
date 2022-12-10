@@ -16,9 +16,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 ---
 
-- () first paint -> first contentful paint -> largest contentful paint. Gzip보다 Brotli로 압축하기. AVIF로 압축하기. 이미지의 불필요한 메타데이터 제거하기(절반까지 용량 절감 가능). 웹폰트 최적화(사용하지 않는 글립에 대한 삭제 및 자체 폰트로 전환).
+- (343) first paint -> first contentful paint -> largest contentful paint. Gzip보다 Brotli로 압축하기. AVIF로 압축하기. 이미지의 불필요한 메타데이터 제거하기(절반까지 용량 절감 가능). 웹폰트 최적화(사용하지 않는 글립에 대한 삭제 및 자체 폰트로 전환).
   - GDG Frontend
-- ()
 
 - (334) There are three kinds of uncertainties. Data (aleatoric uncertainty), model (epistemic uncertainty), and out-of-distribution (novelty detectionn) uncertainty.
   - MODULABS Choi, Sungjoon.
