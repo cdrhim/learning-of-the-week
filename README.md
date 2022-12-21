@@ -17,6 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 
 ---
 ---
+### Week 51
+
 ### Week 49
 - (343) first paint -> first contentful paint -> largest contentful paint. Gzip보다 Brotli로 압축하기. AVIF로 압축하기. 이미지의 불필요한 메타데이터 제거하기(절반까지 용량 절감 가능). 웹폰트 최적화(사용하지 않는 글립에 대한 삭제 및 자체 폰트로 전환). Lighthouse를 사용하기.
   - GDG Frontend 강상진
