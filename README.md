@@ -6,6 +6,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 🌍 Website: [link](https://cdrhim.github.io/learning-of-the-week/)<br>
 🛠️ Github: [link](https://https://www.github.com/cdrhim/learning-of-the-week/)
 
+- [Week 51](#week-51)
 - [Week 49](#week-49)
 - 
 - [Week 47](#week-47)
