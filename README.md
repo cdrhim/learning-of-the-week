@@ -6,6 +6,10 @@ The units are in the number of the week, and the number of day (in parentheses) 
 🌍 Website: [link](https://cdrhim.github.io/learning-of-the-week/)<br>
 🛠️ Github: [link](https://https://www.github.com/cdrhim/learning-of-the-week/)
 
+2023
+- [Week 2](#week-2)
+
+2022
 - [Week 51](#week-51)
 - [Week 49](#week-49)
 - 
@@ -13,8 +17,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 - [Week 46](#week-46)
 - [Week 45](#week-45)
 - [Week 44](#week-44)
-- [Week 43](#week-43)
-- [Week 40](#week-40)
+- [Week 43](#week-43-'22)
+- [Week 40](#week-40-'22)
 ---
 ---
 ---
@@ -74,13 +78,13 @@ The units are in the number of the week, and the number of day (in parentheses) 
 - (309) https://jehyunlee.github.io/2022/11/04/Python-DS-119-kierlecture7/
   - TensorFlow KR
 
-### Week 43
+### Week 43 '22
 ##### (Oct. week 5) of 2022
 
 - (300) TensorRT - C++ library
   - https://developer.nvidia.com/tensorrt
 
-### Week 40 
+### Week 40 '22
 ##### (Oct. week 2) of 2022 
 
 
