@@ -28,6 +28,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ---
 ---
 ### Week 5
+- (32) Should know why Selenium agent optioning does not work on certain sites, causing a 403 Error.
 
 ### Week 2
 
