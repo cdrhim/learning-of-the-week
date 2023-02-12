@@ -7,6 +7,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 🛠️ Github: [link](https://https://www.github.com/cdrhim/learning-of-the-week/)
 
 2023
+- [Week 6](#week-6)
 - [Week 5](#week-5)
 - [Week 4](#week-4)
 - [Week 3](#week-3)
@@ -24,11 +25,8 @@ The units are in the number of the week, and the number of day (in parentheses) 
 - [Week 40](#week-40-'22)
 ---
 ---
----
----
----
-### Week 7
-- () Difference between Core, Core Plus, Value-Add and Opportunistic Investments. ‘Core’ is synonymous with ‘income’ in the stock market. ‘Core Plus’ is synonymous with ‘growth and income.’ ‘Value-Add’ is synonymous with ‘growth’ in the stock market and is associated with moderate to high risk. Opportunistic is the riskiest of all real estate investment strategies.
+### Week 6
+- (43) Difference between Core, Core Plus, Value-Add and Opportunistic Investments. ‘Core’ is synonymous with ‘income’ in the stock market. ‘Core Plus’ is synonymous with ‘growth and income.’ ‘Value-Add’ is synonymous with ‘growth’ in the stock market and is associated with moderate to high risk. Opportunistic is the riskiest of all real estate investment strategies.
   - https://origininvestments.com/2018/02/21/what-are-core-core-plus-value-added-and-opportunistic-investments/
 
 ### Week 5
