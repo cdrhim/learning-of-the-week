@@ -23,7 +23,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 - [Week 44](#week-44)
 - [Week 43](#week-43-'22)
 - [Week 40](#week-40-'22)
----
+------
 ---
 ### Week 6
 - (43) Difference between Core, Core Plus, Value-Add and Opportunistic Investments. ‘Core’ is synonymous with ‘income’ in the stock market. ‘Core Plus’ is synonymous with ‘growth and income.’ ‘Value-Add’ is synonymous with ‘growth’ in the stock market and is associated with moderate to high risk. Opportunistic is the riskiest of all real estate investment strategies.
