@@ -5,7 +5,7 @@ The units are in the number of the week, and the number of day (in parentheses) 
 
 🌍 Website: [link](https://cdrhim.github.io/learning-of-the-week/)<br>
 🛠️ Github: [link](https://https://www.github.com/cdrhim/learning-of-the-week/)
-----------
+------------
 2023
 - [Week 7](#week-7)
 - [Week 6](#week-6)
