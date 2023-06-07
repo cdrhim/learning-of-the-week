@@ -27,7 +27,9 @@ The units are in the number of the week, and the number of day (in parentheses) 
 ------
 ---
 
-
+###
+- At Storm Ventures, the mission is collectively made, which is in three words: upbringing startup founders.
+  - Storm Ventures CEO Tae Hea Nahm
 
 ###
 - These days, people use Apache Superset for visualization.
